@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import Sidebar from "../components/sidebar";
+import Sidebar from "../components/Sidebar";
 
 import { FiPlus } from "react-icons/fi";
 

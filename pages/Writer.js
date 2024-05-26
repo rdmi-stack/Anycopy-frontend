@@ -1,11 +1,7 @@
 import React, { useState } from "react";
-
 import Sidebar from "../components/Sidebar";
-
 import { FiPlus } from "react-icons/fi";
-
 import { Button } from "antd";
-
 import QuillEditor from "../components/QuillEditor";
 
 const Writer = () => {
